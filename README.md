@@ -166,36 +166,3 @@ Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang b
 >   $username = 'superadmin';
 >   $password = 'superadmin';
 >   ```
-
-## Kesimpulan
-
-Dengan aplikasi web sistem absensi sekolah berbasis QR code ini, diharapkan proses absensi di sekolah menjadi lebih efisien dan terotomatisasi. Proyek ini dapat diadaptasi dan dikembangkan lebih lanjut sesuai dengan kebutuhan dan persyaratan sekolah Anda.
-
-Jangan lupa beri star ya...⭐⭐⭐
-
-## Contributing 🤝
-
-Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
-
-## Donasi ❤
-
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## Star History
-
-<a href="https://www.star-history.com/#ikhsan3adi/absensi-sekolah-qr-code&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ikhsan3adi/absensi-sekolah-qr-code&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ikhsan3adi/absensi-sekolah-qr-code&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ikhsan3adi/absensi-sekolah-qr-code&type=Date" />
- </picture>
-</a>
-
-## Kontributor 🛠️
-
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
-- [@reactmore](https://www.github.com/reactmore)
-- [@janglapuk](https://www.github.com/janglapuk)
-- [@nanda443](https://www.github.com/nanda443)
-- [@kevindoni](https://www.github.com/kevindoni)
-- [@pandigresik](https://github.com/pandigresik)
